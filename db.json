@@ -2,8 +2,8 @@
   "notes": [
     {
       "id": 1,
-      "title": "Test Note",
-      "content": "This is a test note",
+      "title": "đi đá bóng",
+      "content": "đá bóng với bạn cấp 3",
       "priority": 2,
       "createdAt": "2025-04-08T10:00:00.000Z",
       "modifiedAt": "2025-04-08T10:00:00.000Z",
@@ -12,8 +12,8 @@
     },
     {
       "id": 2,
-      "title": "Grocery List",
-      "content": "Buy milk, eggs, and bread from the store.",
+      "title": "đi mua giày",
+      "content": "mua giày đá bóng mới.",
       "priority": 1,
       "createdAt": "2025-04-09T08:30:00.000Z",
       "modifiedAt": "2025-04-09T08:30:00.000Z",
@@ -22,8 +22,8 @@
     },
     {
       "id": 3,
-      "title": "Meeting Notes",
-      "content": "Discuss project timeline and resource allocation with the team.",
+      "title": "đi đánh cầu lông",
+      "content": "tập luyện cầu lông cùng các bạn.",
       "priority": 3,
       "createdAt": "2025-04-10T14:15:00.000Z",
       "modifiedAt": "2025-04-10T14:15:00.000Z",
@@ -32,8 +32,8 @@
     },
     {
       "id": 4,
-      "title": "Personal Reminder",
-      "content": "Call mom at 6 PM today.",
+      "title": "đi mua vợt",
+      "content": "mua vợt cầu lông lining.",
       "priority": 2,
       "createdAt": "2025-04-11T09:00:00.000Z",
       "modifiedAt": "2025-04-11T09:00:00.000Z",
